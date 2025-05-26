@@ -26,7 +26,7 @@ const AddEmployee = () => {
     e.preventDefault();
     try {
       const token = localStorage.getItem("token");
-      const res=await axios.post(
+      await axios.post(
         `${import.meta.env.VITE_BACKEND_URL}/api/auth/register`,
         {
           ...formData,
@@ -36,7 +36,8 @@ const AddEmployee = () => {
           headers: {
             Authorization: `Bearer ${token}`,
           },
-        }
+          withCredentials: true
+        },
       );
       alert("Employee added successfully!");
       navigate("/admin");

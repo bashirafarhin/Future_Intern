@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "Develop a web application that allows administrators to perform CRUD (Create, Read, Update, Delete) operations on employee records. Users should be able to add new employees, view existing employee details, update employee\r information, and delete employee records. Ensure the system has proper validation and authentication \r mechanisms to protect sensitive employee data.",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

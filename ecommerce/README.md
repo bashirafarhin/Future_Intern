@@ -5,7 +5,7 @@ Create an e-commerce website for a local store in your area, enabling customers 
 
 ### 🚀 Deployed Project
 <!-- Replace the link below with your actual deployed project link -->
-[Live Demo](https://your-deployed-project-link.com)
+[Live Demo](https://ecommerce-3nok.onrender.com)
 
 ### ✅ Work Done
 For this task, I designed and built a **responsive e-commerce platform** tailored for a local store.

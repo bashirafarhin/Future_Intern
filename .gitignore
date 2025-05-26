@@ -3,3 +3,11 @@ ecommerce/client/.env
 ecommerce/client/dist
 ecommerce/server/node_modules
 ecommerce/server/.env
+
+
+
+employeeManagementSystem/client/node_modules
+employeeManagementSystem/client/.env
+employeeManagementSystem/client/dist
+employeeManagementSystem/server/node_modules
+employeeManagementSystem/server/.env

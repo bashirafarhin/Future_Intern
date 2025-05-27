@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Optional: add this to help Tailwind background colors show */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

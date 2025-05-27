@@ -11,3 +11,11 @@ employeeManagementSystem/client/.env
 employeeManagementSystem/client/dist
 employeeManagementSystem/server/node_modules
 employeeManagementSystem/server/.env
+
+
+
+secureAuthenticationSystem/client/node_modules
+secureAuthenticationSystem/client/.env
+secureAuthenticationSystem/client/dist
+secureAuthenticationSystem/server/node_modules
+secureAuthenticationSystem/server/.env

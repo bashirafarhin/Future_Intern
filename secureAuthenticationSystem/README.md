@@ -4,7 +4,7 @@
 Implement a user authentication system with secure login and registration functionality. Users should be able to sign up for an account, log in securely, and access protected routes only after successful authentication. Use standard mechanisms to handle password hashing, session management, and user role-based access control. Protected routes should restrict unauthorized access to sensitive functionalities.
 
 ### 🚀 Deployed Project
-[Live Demo](https://your-app-link.com)
+[Live Demo](https://sessionauthapp.onrender.com/)
 
 ### ✅ Work Done
 Developed a **secure session-based authentication system** with a role-based access model using React and Express. Users can register, log in, and access pages based on their assigned roles. Admin users have access to dedicated admin routes.

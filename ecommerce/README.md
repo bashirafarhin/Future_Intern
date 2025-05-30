@@ -20,7 +20,8 @@ For this task, I designed and built a **responsive e-commerce platform** tailore
 - 💳 Payment integration using Razorpay  
 - 📧 Email notifications (order confirmation & password reset)  
 - ⭐ Leave reviews on products  
-- 🛒 Add to cart and wishlist functionality  
+- 🛒 Add to cart and wishlist functionality
+- 💳 Integrated Razorpay payment gateway (test mode for local development)
 
 ### 🧰 Tech Stack Used
 
